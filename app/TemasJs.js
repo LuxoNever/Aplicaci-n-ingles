@@ -103,6 +103,7 @@ const quizData = {
         options: ["rings", "rang", "is ringing", "has rung"],
         correctAnswer: 1
       }
+      
     ],
     'present-simple': [
       {
