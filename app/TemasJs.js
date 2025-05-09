@@ -21,46 +21,45 @@ const quizData = {
         correctAnswer: 3
       },
       {
-        question: "We will it rain tomorrow.",
+        question: "We it rain tomorrow.",
         options: ["No, it doesn't", "No, it didn't", "Not. it won't", "No, it isn't"],
         correctAnswer: 2
       },
 
-
       {
-        question: "Are they  _____ go to the concert?.",
-        options: ["going", "going to", "not", "is"],
+        question: "She ______ to the party tomorrow..",
+        options: ["will goes", "will go", "go", "going"],
         correctAnswer: 1
       },
       {
-        question: "They _____ travel to japan next year.",
-        options: ["ins't going to", "going to", "will be", "are going to"],
+        question: "I think it ______ rain later.",
+        options: ["rained", "rains", "will be", "will"],
         correctAnswer: 3
       },
       {
-        question: "We _____ eat lunch at 1 PM",
-        options: ["going to", "is going", "are going to", "going to"],
-        correctAnswer: 2
-      },
-      {
-        question: "They _____ take the bus to school.",
-        options: ["aren't going to", "won't going", "are going to", "is going to"],
+        question: "They ______ a new car next month.",
+        options: ["will buy", "will bought", "buys", "are buy"],
         correctAnswer: 0
       },
       {
-        question: "I _____ buy a new phone next.",
-        options: ["is going to", "am going to", "going", "am"],
-        correctAnswer: 1
+        question: "We ______ our homework after dinner.",
+        options: ["will doing", "does", "will do", "did"],
+        correctAnswer: 2
+      },
+      {
+        question: "He ______ early for the meeting.",
+        options: ["arriving", "will arrives", "arrive", "will arrive"],
+        correctAnswer: 3
       }
     ],
     'simple-past': [
       {
-        question: "Where _____ you yesterday.",
+        question: "Where _____ you yesterday?",
         options: ["did", "do", "does", "is going"],
         correctAnswer: 0
       },
       {
-        question: "What time _____ the train arrive.",
+      question: "What time _____ the train arrive?",
         options: ["does not", "do", "did", "have lost"],
         correctAnswer: 2
       },
@@ -76,7 +75,7 @@ const quizData = {
       },
       {
         question: "_____ he see the movie last weekend?.",
-        options: ["do", "did", "does", "has"],
+        options: ["Do", "Did", "Does", "Has"],
         correctAnswer: 1
       },
       {
@@ -85,18 +84,18 @@ const quizData = {
         correctAnswer: 2
       },
       {
-        question: "She _____ a book two days ago.",
+        question: "She _____ a book two days ago",
         options: ["buying", "buyed", "bought", "buy"],
         correctAnswer: 2
       },
       {
-        question: "What _____ you do last summer.",
+        question: "What _____ you do last summer?",
         options: ["did", "do", "will", "vacation"],
         correctAnswer: 0
       },
       {
-        question: "They _____ to Paris in 2019.",
-        options: ["travel", "have traveled", "are traveling", "traveled"],
+        question: "_____ you finish the report on time?",
+        options: ["to", "Does", "do", "Did"],
         correctAnswer: 3
       },
       {
@@ -107,53 +106,53 @@ const quizData = {
     ],
     'present-simple': [
       {
-        question: "My dog always _____ on my bad.",
-        options: ["sleep", "sleeping", "sleeps", "drank"],
-        correctAnswer: 0
-      },
-      {
-        question: "I _____ by watching comedy series.",
-        options: ["relaxes", "relaxing", "relax", "relation"],
+        question: "She usually __ her laptop to the university for taking notes.",
+        options: ["brought", "bringing", "brings", "bring"],
         correctAnswer: 2
       },
       {
-        question: "Do you _____ to travel the world.",
-        options: ["likes", "like", "liking", "love"],
-        correctAnswer: 1
-      },
-      {
-        question: "My favorite series _____ Friends.",
-        options: ["go", "is", "are", "be"],
-        correctAnswer: 3
-      },
-      {
-        question: "When i am stressed, I _____ .",
-        options: ["dancing", "has", "dance", "dances"],
-        correctAnswer: 2
-      },
-      {
-        question: "She _____ delicius meals every day.",
-        options: ["cook", "cooks", "cooking", "rose"],
+        question: "We __ understand this topic very well without extra reading.",
+        options: ["don't ", "aren't", "not", "doesn't"],
         correctAnswer: 0
       },
       {
-        question: "_____ she _____ English?",
-        options: ["Do / speak", "Does / speak", "Is / speaking", "Did / speak"],
-        correctAnswer: 1
-      },
-      {
-        question: "My parents _____ in a small house.",
-        options: ["lived", "lives", "are living", "live"],
+        question: "Do your classmates __ enough time studying before exams?",
+        options: ["spent", "spending", "spends", "spend "],
         correctAnswer: 3
       },
       {
-        question: "The train _____ at 9 AM every day.",
-        options: ["leave", "leaves", "is leaving", "left"],
+        question: "My professor always __ clear examples during the lecture..",
+        options: ["give", "gives ", "giving", "gave"],
         correctAnswer: 1
       },
       {
-        question: "I _____ coffee. I prefer tea.",
-        options: ["don't like", "doesn't like", "am not liking", "didn't like"],
+        question: "They __ submit the assignment on time if they don’t start today.",
+        options: ["not", "won't", "doesn’t", "don’t "],
+        correctAnswer: 3
+      },
+      {
+        question: "Why __ you prefer online courses over traditional ones?",
+        options: ["do ", "does", "did", "doing"],
+        correctAnswer: 0
+      },
+      {
+        question: "The university cafeteria __ a variety of healthy meals.",
+        options: ["offer", "offers ", "offering", "offered"],
+        correctAnswer: 1
+      },
+      {
+        question: "I __ agree with his opinion in the group discussion.",
+        options: ["no", "not", "don’t ", "doesn’t"],
+        correctAnswer: 2
+      },
+      {
+        question: "Does she __ to the library every afternoon to study?",
+        options: ["gone", "going", "goes", "go"],
+        correctAnswer: 3
+      },
+      {
+        question: "We usually __ group meetings in the evening after our classes.",
+        options: ["have", "having", "has", "had"],
         correctAnswer: 0
       }
     ]
